@@ -96,5 +96,3 @@ Este repositório contém três projetos Angular criados como um **módulo didá
 **README criado por:** GitHub Copilot ✍️
 
 **Contexto:** conteúdo referente a um módulo do curso da *Udemy* sobre Angular (projeto de estudo e demonstração de Module Federation/microfrontends).
-
-Se quiser, eu posso: (1) adicionar exemplos de comandos para debug, (2) atualizar os READMEs locais em cada subprojeto com detalhes específicos, ou (3) incluir um diagrama simples da arquitetura. Qual prefere? 💬
